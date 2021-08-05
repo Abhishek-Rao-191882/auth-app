@@ -1,6 +1,7 @@
 # auth-app
 
 ## api link
+### (use postman for testing)
 Home-
 https://abhi-auth.herokuapp.com/
 
